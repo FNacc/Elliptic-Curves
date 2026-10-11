@@ -190,4 +190,4 @@ has rank at least 30. The following 30 points lie on it and are independent:
 (724541571236974639253882774056445508897/58736896, 9269963623925003580675625745285646752375714103908737848015/450159570944)
 
 The rank is exactly 30 subject to BSD+GRH, as the root number is 1 and an explicit formula upper bound with primes up to 2 billion gives <32.
-The curve has log conductor ~348 and therefore does not make it into the top10 on the ICARM leaderboard https://elliptic-rank.icarm.cloud/
+The curve has log conductor ~349 and therefore does not make it into the top10 on the ICARM leaderboard https://elliptic-rank.icarm.cloud/
